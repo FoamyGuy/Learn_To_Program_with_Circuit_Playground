@@ -1,3 +1,6 @@
+# Mu editor
+This guide will use the Mu code editor. To get it set up follow the guide here: https://learn.adafruit.com/welcome-to-circuitpython/installing-mu-editor
+
 # Circuit Playground Express
 Install the latest stable version of Circuit Python on your device. Follow the guide here: https://learn.adafruit.com/adafruit-circuit-playground-express/circuitpython-quickstart
 
