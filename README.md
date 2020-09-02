@@ -6,6 +6,9 @@ These tutorials are made to be followed along with an Adafruit Circuit Playgroun
 
 - [Circuit Playground Bluefruit](https://www.adafruit.com/product/4333)
 - [Circuit Playground Express](https://www.adafruit.com/product/3333)
+
+## Setting up your device:
+See the [setting_up.md](setting_up.md) file in this repository.
  
  ## Running the code examples:
  There are two main ways that you can run the code examples in this tutorial. 
