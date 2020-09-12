@@ -14,12 +14,11 @@ Download the Circuit Python library bundle, unzip it and copy the required libra
 
 The specific libraries we need are:
 - `adafruit_bus_device/`
-- `adafruit_bus_device/`
 - `adafruit_circuitplayground/`
 - `adafruit_lis3dh.mpy`
 - `adafruit_thermistor.mpy`
 - `neopixel.mpy`
 
-Note that the first 3 are directories, and the latter 3 are individual `mpy` files. 
+Note that the first 2 are directories, and the latter 3 are individual `mpy` files. 
 
-If you follow the guide linked above it will instruct you to copy these plus a few extra modules. You can go ahead and copies those extra ones as well if you want, or you can leave them out, either way.
+If you follow the guide linked above it will instruct you to copy these plus a few extra modules for BLE and HID. You can go ahead and copies those extra ones as well if you want, or you can leave them out, either way. But you must copy the ones listed above.
